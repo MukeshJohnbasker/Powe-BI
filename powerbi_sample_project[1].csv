@@ -1,0 +1,446 @@
+order_id,order_date,ship_date,ship_mode,customer_id,customer_name,segment,product_id,category,sub_category,product_name,payment method,sales,quantity,discount,profit,country,city,state,postal_code
+MA-602415903,28-12-2023,30-12-2023,Second Class,NN-2834,NAJMA  BEE,Home Office,MH-PF-4018,Technology,Otto,Ottomans,Debit Card,342,46,4,13,India,Nasik,IN-MH,422101
+MA-441540091,27-12-2023,29-12-2023,Standard Class,SS-6341,SURENDRA  KUMAR,Consumer,MH-SH-133,Office Supplies,Book,Bookcases,Debit Card,178,19,2,45,India,majalgaon,IN-MH,431131
+MA-350870682,15-12-2023,18-12-2023,Standard Class,AA-7380,ASHOK  KUMAR,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Credit Card,711,84,2,77,India,Bangalore,IN-KA,560079
+MA-328276928,15-12-2023,16-12-2023,First Class,EE-1227,ERSHAD  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,COD,266,3,6,22,India,Dharwad,IN-KA,580004
+MA-814626482,05-12-2023,09-12-2023,Standard Class,SS-5243,SAM  SUNDDIN,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,UPI,352,22,6,51,India,Hubli,IN-KA,580023
+MA-972218111,17-11-2023,19-11-2023,Standard Class,GG-7608,GOPAL  LAL,Home Office,MH-PF-4016,Technology,Otto,Ottomans,Credit Card,821,75,2,59,India,Mehre,IN-HP,174305
+MA-541734037,12-11-2023,14-11-2023,First Class,NN-9032,NITESH  JI,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Credit Card,767,9,2,40,India,Hyderabad,IN-TG,502032
+MA-086876994,12-11-2023,13-11-2023,First Class,SS-9785,SHAKAR  JI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Credit Card,357,71,7,63,India,Dharur,IN-MH,431124
+MA-327234515,09-11-2023,12-11-2023,First Class,RR-6825,RAMESH  KUMAR,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Credit Card,249,19,0,35,India,JAIPUR,IN-RJ,302004
+MA-804951040,06-11-2023,08-11-2023,Standard Class,BB-2065,BHUVAN  SINGH,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,435,20,0,45,India,Thane,IN-MH,421101
+MA-631435499,04-11-2023,08-11-2023,First Class,JJ-7365,JHELSIYA  RAM,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,822,34,0,46,India,Kakinada,IN-AP,533005
+MA-771283010,21-10-2023,23-10-2023,Standard Class,DD-6521,DIPAK  SONI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,721,61,0,87,India,Chennai,IN-TN,600011
+MA-694465439,12-10-2023,17-10-2023,First Class,RR-8489,RUKHSANA  JI,Consumer,MH-SH-130,Office Supplies,Book,Bookcases,UPI,826,55,0,70,India,DEHRADUN,IN-UT,248001
+MA-446418996,09-10-2023,11-10-2023,First Class,II-3572,INDRIYA  KUMAR,Consumer,MH-ST-108,Technology,Shelves,Wall Mounted Shelves,Debit Card,555,75,0,35,India,NAVI MUMBAI,IN-MH,410210
+MA-165352636,03-10-2023,07-10-2023,Standard Class,AA-6460,ANIK  JI,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Debit Card,496,10,0,71,India,Betul,IN-MP,460001
+MA-459146733,04-10-2023,05-10-2023,Standard Class,VV-4900,VAR CHAND SINGH,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,Debit Card,606,60,0,43,India,Jaipur,IN-RJ,302004
+MA-870486111,21-09-2023,25-09-2023,Second Class,GG-2028,GUTTHI  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,139,62,0,80,India,New Delhi,IN-DL,110088
+MA-465436454,22-09-2023,23-09-2023,Standard Class,AA-7942,ANIMESH  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,639,76,0,79,India,Surat,IN-GJ,395010
+MA-465436455,23-09-2023,24-09-2023,Second Class,BB-3462,BHIM  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,,466,52,0,81,India,Gurugram 122004,IN-HR,College
+MA-401874148,19-09-2023,21-09-2023,Second Class,KK-3509,KANHAIYA  LAL,Corporate,MH-MD-13001GR,Technology,Wall,Wall Décor,Debit Card,664,73,0,14,India,Bengaluru,IN-KA,560068
+MA-246512396,14-09-2023,16-09-2023,First Class,PP-6928,PRAVESH  LAL,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,Debit Card,326,84,0,28,India,Gurgaon,IN-HR,122001
+MA-397240922,05-09-2023,08-09-2023,Standard Class,HH-6366,HUSSAIN  BHAI,Home Office,MH-PF-4034,Technology,Otto,Ottomans,Debit Card,606,82,0,53,India,Sundernagar,IN-HP,175018
+MA-006131599,02-09-2023,05-09-2023,Standard Class,BB-2334,BUDDHA  SAIN,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,159,80,0,23,India,Mumbai,IN-MH,400078
+MA-271702717,16-08-2023,18-08-2023,Standard Class,KK-4275,KEMATA  SINGH,Home Office,MH-PF-4010,Technology,Otto,Ottomans,Debit Card,250,65,0,34,India,Garudabhadra,IN-AP,532222
+MA-676668141,30-07-2023,02-08-2023,Standard Class,MM-4273,MUSTAK  MOHD,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,632,83,0,40,India,Berhampur,IN-OR,760001
+MA-056000508,12-07-2023,14-07-2023,Second Class,DD-9449,DITALA  SINGH,Home Office,MH-PF-4032,Technology,Otto,Ottomans,Debit Card,269,66,0,70,India,Vijayawada,IN-AP,520004
+MA-634510307,12-07-2023,14-07-2023,First Class,TT-6235,TANVEER  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,332,72,0,65,India,"Mulund East, Mumbai",IN-MH,400081
+MA-154125239,08-07-2023,09-07-2023,Standard Class,PP-5301,PUNA  KUMAR,Consumer,MH-ST-113,Technology,Shelves,Wall Mounted Shelves,Credit Card,798,9,0,19,India,Dharmabad,IN-MH,431809
+MA-004105813,26-06-2023,28-06-2023,Standard Class,KK-8624,KISHORE  LAL,Consumer,MH-BS-905,Furniture,Stools,Bar Stools,Credit Card,793,13,0,30,India,Hyderabad,IN-TG,500044
+MA-911458244,24-06-2023,27-06-2023,Standard Class,MM-5745,MOHAMMAD  ALI,Home,MH-MR-611WT,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,454,57,0,28,India,Nanded,IN-MH,431811
+MA-211341514,23-06-2023,25-06-2023,Second Class,BB-8628,BHARAT  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,270,19,0,22,India,Durgapur,IN-WB,713201
+MA-825653234,19-06-2023,21-06-2023,Standard Class,GG-8777,GILDAR  SINGH,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Credit Card,681,72,0,13,India,vandazhy,IN-KL,678706
+MA-602172434,17-06-2023,19-06-2023,Standard Class,BB-9920,BRAJENDRA  B,Home Office,MH-PF-4020,Technology,Otto,Ottomans,Credit Card,530,28,0,26,India,Indore,IN-MP,452006
+MA-107406633,15-06-2023,17-06-2023,Standard Class,KK-6304,KELASH  CHANDRA,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,506,60,0,87,India,Dharmapuri,IN-TN,635301
+MA-366723807,09-06-2023,12-06-2023,Standard Class,II-9598,INDIRA  KUMARI,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Credit Card,487,55,0,94,India,Khammam,IN-TG,507002
+MA-151999542,01-06-2023,04-06-2023,Standard Class,RR-9828,RAJESH  JI,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,622,34,0,24,India,Dharmabad,IN-MH,431809
+MA-040743884,16-05-2023,19-05-2023,Standard Class,RR-8971,RUMA LIYA JI,Home Office,MH-PF-4001,Technology,Otto,Ottomans,Credit Card,243,4,0,53,India,Jamnagar,IN-GJ,361007
+MA-533294415,13-05-2023,15-05-2023,Standard Class,II-2361,IRSHAD  KHAN,Home,MH-MR-607BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,667,71,0,87,India,Ernakulam,IN-KL,683579
+MA-122556897,06-05-2023,08-05-2023,Standard Class,RR-3027,RAMA  BAI,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,Credit Card,169,32,0,11,India,Hyderabad,IN-AN,500053
+,,,,,,,,,,,,,,,,,,,
+MA-847835307,30-04-2023,03-05-2023,First Class,JJ-7726,JAKIR  KHAN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,322,13,0,75,India,Bengaluru,IN-KA,560062
+MA-640349976,20-04-2023,22-04-2023,First Class,BB-4073,BALA  PRASAD,Home,MH-MR-609WT,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,849,20,0,22,India,Pune,IN-MH,412214
+MA-702678506,13-04-2023,15-04-2023,First Class,TT-7145,TARUN  KUMAR,Home Office,MH-PF-4020,Technology,Otto,Ottomans,Debit Card,542,19,0,31,India,Latur,IN-MH,413512
+MA-832921167,05-04-2023,07-04-2023,Standard Class,BB-6594,BHURAN  LAL,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,493,9,0,83,India,Villupuram,IN-TN,605602
+MA-923025609,31-03-2023,02-04-2023,Second Class,JJ-4088,JAHUR  ALI,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,175,53,0,52,India,Berhampur,IN-OR,760009
+MA-672215895,28-03-2023,30-03-2023,Standard Class,CC-5222,CHATAR  SINGH,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,307,55,0,47,India,Brahmapur,IN-OR,760001
+MA-539428938,09-03-2023,11-03-2023,Standard Class,KK-6759,KAMLESH  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,143,27,6,65,India,Chennai,IN-TN,600064
+MA-618506806,05-03-2023,08-03-2023,First Class,NN-7985,NANBU  RAO,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,360,17,3,61,India,Berhampur,IN-OR,760001
+MA-739490893,02-03-2023,03-03-2023,Standard Class,PP-8765,PURAM  SINGH,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,Debit Card,175,3,5,96,India,Dewas,IN-MP,455001
+MA-134023006,19-02-2023,20-02-2023,First Class,DD-6396,DEVI RAM JI,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,151,71,3,19,India,Karur,IN-TN,639004
+MA-083874909,14-02-2023,18-02-2023,Second Class,BB-3462,BHIM  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,633,81,4,18,India,Gurugram,IN-HR,122001
+MA-741630691,20-01-2023,24-01-2023,Standard Class,DD-6990,DHANNALAL  JI,Corporate,MH-MD-13009WT,Technology,Wall,Wall Décor,Debit Card,132,88,2,54,India,Thrissur,IN-KL,680551
+MA-246512396,02-01-2023,04-01-2023,Standard Class,KK-2254,KODAR SINGH JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,169,67,3,33,India,mumbai,IN-MH,400065
+MA-541503788,27-12-2022,29-12-2022,Standard Class,DD-5255,DE  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,792,64,6,43,India,dindigul,IN-TN,624705
+MA-467074132,25-12-2022,27-12-2022,Standard Class,BB-7778,BIPINCHANDRA  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,391,59,3,72,India,Lucknow,IN-UP,226007
+MA-892986923,23-12-2022,25-12-2022,Standard Class,TT-3405,THAVALA  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,384,15,6,21,India,Ambernabab,IN-AN,421505
+MA-910004615,12-12-2022,13-12-2022,Standard Class,RR-5636,RACHNA BARIYA JI,Consumer,MH-PI-12001SL,Home Furniture,Frames,Picture Frames,Debit Card,302,42,4,54,India,Patiala,IN-PB,147001
+MA-013507897,04-12-2022,05-12-2022,Standard Class,RR-4987,RAMESH CHANDRA VANI,Home,MH-MR-606BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,596,14,3,51,India,Gaya,IN-BR,823001
+MA-015398382,04-12-2022,08-12-2022,Standard Class,VV-3534,VIJAY  KUMAR,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,455,30,2,56,India,Ambejogai,IN-MH,431517
+MA-515916734,04-12-2022,06-12-2022,Standard Class,YY-9505,YAKUB  KAKRE,Home,MH-BD-11501,Furniture,Beds,Beds,Debit Card,652,77,3,66,India,Udgir,IN-MH,413517
+,,,,,,,,,,,,,,,,,,,
+MA-341990561,02-12-2022,05-12-2022,Standard Class,PP-7889,PRAVEEN  JI,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Debit Card,144,45,5,85,India,Shivpuri,IN-MP,473551
+MA-821566453,08-11-2022,09-11-2022,Second Class,JJ-5526,JAM  SINGH,Consumer,MH-ST-102GD,Technology,Shelves,Wall Mounted Shelves,Debit Card,233,8,3,15,India,Mumbai,IN-MH,400067
+MA-925221151,04-11-2022,08-11-2022,Standard Class,DD-3311,DITALI  BAI,Home Office,MH-PF-4009,Technology,Otto,Ottomans,Debit Card,408,67,7,78,India,New Delhi,IN-DL,110062
+MA-285321723,02-11-2022,04-11-2022,Standard Class,KK-4920,KANHAIYA  LAL,Home,MH-MR-602,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,777,81,7,89,India,Bengaluru,IN-KA,560068
+MA-796533810,31-10-2022,01-11-2022,Standard Class,NN-7743,NAJARU  LAL,Home Office,MH-TB-801,Furniture,Tables,End Tables,Debit Card,698,25,3,24,India,Moradabad,IN-UP,244001
+MA-926797318,27-10-2022,28-10-2022,Second Class,LL-8026,LAXMAN  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,149,41,3,87,India,Inkollui,IN-AP,523167
+MA-517332780,26-09-2022,29-09-2022,Second Class,RR-4051,RAJESH  LUNKARAN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,679,18,0,20,India,Patiala,IN-PB,147001
+MA-819487802,15-09-2022,17-09-2022,Standard Class,BB-5807,BATHU  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,760,59,0,35,India,UDUPI,IN-KA,576101
+MA-023583929,12-09-2022,14-09-2022,Standard Class,RR-2480,RAJ INDRA JI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,214,29,0,59,India,Morbi,IN-GJ,363642
+MA-994298888,06-09-2022,09-09-2022,Standard Class,DD-4275,DEEPAK  MODI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,397,33,0,59,India,Mumbai,IN-MH,400067
+MA-899111667,25-08-2022,27-08-2022,Second Class,PP-3300,PRATAP  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,329,9,0,65,India,Hyderabad,IN-AP,500018
+MA-005263393,13-08-2022,15-08-2022,Second Class,SS-4700,SELIYA  KUMAR,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,Debit Card,217,57,0,86,India,Delhi,IN-DL,110051
+MA-149791312,11-08-2022,13-08-2022,Standard Class,KK-7269,KAMLESH  LAL,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,Debit Card,178,50,0,59,India,Kaatupakkam,IN-TN,600056
+MA-731646556,05-08-2022,06-08-2022,First Class,BB-1805,BURHANI  JAPAN,Consumer,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,Debit Card,570,44,0,69,India,Azamgurh,IN-UP,223227
+MA-437438832,05-08-2022,09-08-2022,Standard Class,HH-6536,HEMANT  KUMAR,Consumer,MH-ST-110,Technology,Shelves,Wall Mounted Shelves,Debit Card,584,16,0,76,India,Chennai,IN-TN,600056
+MA-194134307,24-07-2022,27-07-2022,Standard Class,JJ-5085,JAM  SINGH,Home Office,MH-CH-705,Office Supplies,Chairs,Accent Chairs,COD,817,38,0,44,India,Madurai,IN-AN,625009
+MA-915748039,22-07-2022,25-07-2022,Standard Class,VV-6273,VIKRAM  SINGH,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,COD,617,85,0,70,India,Kaij,IN-MH,431123
+MA-096605403,12-07-2022,14-07-2022,Standard Class,DD-4629,DEEPIKA  KUMAR,Corporate,MH-TB-813,Technology,Tables,Coffee & Cocktail Tables,COD,738,88,0,89,India,Uttam Nagar,IN-DL,110059
+MA-951731993,09-07-2022,12-07-2022,Second Class,SS-5304,SRI SUR SING JI,Corporate,MH-MD-13009WT,Technology,Wall,Wall Décor,COD,298,50,0,11,India,Kaij,IN-MH,431123
+MA-602415903,07-07-2022,09-07-2022,First Class,II-8305,ISHWAR  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,515,4,0,22,India,chennai,IN-TN,603202
+MA-563556135,30-06-2022,02-07-2022,First Class,AA-3247,AZIZ  KHAN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,206,70,0,71,India,Saharanpur,IN-UP,247001
+MA-098721078,20-06-2022,23-06-2022,First Class,RR-4532,RASHID  KHAN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,364,61,0,49,India,Sakoli,IN-MH,441802
+MA-152263293,15-06-2022,17-06-2022,First Class,SS-3907,SABBAR  KHAN,Consumer,MH-BS-913LG,Furniture,Stools,Bar Stools,COD,346,36,0,74,India,Korattur,IN-TN,600080
+MA-549153715,07-06-2022,09-06-2022,First Class,PP-9283,PIR  MOHAMMAD,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,COD,362,38,0,65,India,Villupuram,IN-TN,605108
+MA-283595030,06-06-2022,09-06-2022,Standard Class,RR-3309,RAUF  KHAN,Home,MH-MR-616,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,728,16,0,93,India,Berhampur,IN-OR,760001
+MA-987147471,04-06-2022,06-06-2022,Standard Class,JJ-5384,JUVAN  SINGH,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,COD,386,89,0,31,India,Dahivadi,IN-MH,415508
+MA-439363214,29-05-2022,30-05-2022,Standard Class,II-7092,IDIYA  KUMAR,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,COD,170,61,0,86,India,Nellore,IN-AP,524001
+MA-688285309,25-05-2022,28-05-2022,Standard Class,JJ-7542,JAIRAM  JI,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,337,90,0,72,India,Brahmapur,IN-OR,760001
+MA-256794024,24-05-2022,27-05-2022,Standard Class,JJ-6294,JITENDRA  JI,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,COD,407,59,0,59,India,Delhi,IN-DL,110085
+MA-336311771,17-05-2022,19-05-2022,Standard Class,TT-4949,TEHERI  KHAN,Home Office,MH-PF-4034,Technology,Otto,Ottomans,COD,296,11,0,15,India,SHIMLA,IN-HP,171002
+MA-376953433,11-05-2022,13-05-2022,Standard Class,HH-9672,HOZEEA  ALI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,327,39,0,87,India,Rampur bsr,IN-HP,172001
+MA-132336308,10-05-2022,12-05-2022,Second Class,LL-8867,LEELA  KUMARI,Consumer,MH-SH-133,Office Supplies,Book,Bookcases,COD,416,40,0,27,India,Vadodara,IN-GJ,390011
+MA-068827376,24-04-2022,25-04-2022,First Class,BB-7720,BANSHI  LAL,Corporate,MH-TB-813,Technology,Tables,Coffee & Cocktail Tables,COD,732,89,0,46,India,Khamgaon,IN-MH,444303
+MA-744905083,18-04-2022,19-04-2022,Second Class,MM-5368,MAN GAT KUMAR,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,COD,300,71,0,91,India,Kovilpatti,IN-TN,628502
+MA-925529980,08-04-2022,10-04-2022,Standard Class,AA-7690,ASHOK  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,282,80,0,70,India,Raipur,IN-CT,492001
+MA-933911567,08-04-2022,10-04-2022,Standard Class,MM-6605,MOHAMMAD  YUNUS,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,COD,202,1,0,26,India,Jamshedpur,IN-JH,831001
+MA-948455108,26-03-2022,28-03-2022,Standard Class,HH-3721,HARISH  WANI,Consumer,MH-ST-113,Technology,Shelves,Wall Mounted Shelves,COD,436,13,0,16,India,Sambalpur,IN-OR,768002
+MA-326309163,24-03-2022,27-03-2022,Standard Class,KK-5962,KEVAL  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,COD,474,82,0,56,India,Kota,IN-RJ,324009
+MA-490115569,23-03-2022,29-03-2022,Second Class,MM-3059,MANO  RAMA,Consumer,MH-ST-112,Technology,Shelves,Wall Mounted Shelves,COD,734,27,0,39,India,Porbandar,IN-GJ,360575
+MA-107406633,19-03-2022,21-03-2022,Standard Class,JJ-3684,JUGADIYA  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,138,17,0,66,India,Gurgaon,IN-HR,122001
+MA-704198525,28-02-2022,02-03-2022,Standard Class,BB-6298,BHERU  SINGH,Consumer,MH-ST-112,Technology,Shelves,Wall Mounted Shelves,UPI,203,70,0,56,India,suratgarh,IN-RJ,335804
+MA-134042871,14-02-2022,17-02-2022,Standard Class,DD-8752,DOKAL  SINGH,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,UPI,415,58,0,14,India,New Delhi,IN-DL,110018
+MA-067126278,09-02-2022,12-02-2022,Second Class,KK-9621,KALU  RAM,Consumer,MH-BS-913LG,Furniture,Stools,Bar Stools,UPI,560,66,0,98,India,Tirupathi,IN-AP,517501
+MA-763474140,30-01-2022,04-02-2022,Standard Class,VV-2261,VAHID  KHAN,Home,MH-MR-605BK,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,235,84,4,77,India,Jaipur,IN-RJ,302004
+MA-308425055,27-01-2022,29-01-2022,First Class,MM-8655,MOHAMMAD  SAAKIL,Consumer,MH-BS-913IV,Furniture,Stools,Bar Stools,UPI,652,17,3,17,India,Aurangabad,IN-AN,824113
+MA-466242254,27-01-2022,29-01-2022,Standard Class,SS-2745,SANJAY  JI,Home Office,MH-PF-4016,Technology,Otto,Ottomans,UPI,198,70,3,45,India,Madurai,IN-TN,625107
+MA-950166630,21-01-2022,22-01-2022,First Class,PP-4423,PRATAP  SINGH,Home,MH-MR-611GR,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,653,3,6,46,India,Sikar District,IN-RJ,332711
+MA-536353001,20-01-2022,22-01-2022,First Class,LL-2595,LILADHAR  JI,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,658,35,7,25,India,Jaipur,IN-RJ,302016
+MA-012129699,18-01-2022,19-01-2022,First Class,DD-5221,DHUNDAR  SINGH,Consumer,MH-PI-12001BK,Home Furniture,Frames,Picture Frames,UPI,825,7,2,90,India,Gandhinagar,IN-GJ,382421
+MA-483870164,18-01-2022,20-01-2022,First Class,MM-6569,MAHESH  KUMAR,Home Office,MH-PF-4022,Technology,Otto,Ottomans,UPI,491,87,7,76,India,baghpat,IN-UP,250606
+MA-635590096,18-01-2022,20-01-2022,First Class,TT-3407,TOGENDRA  JI,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,360,73,3,66,India,arambagh,IN-WB,712601
+MA-850364626,01-01-2022,07-01-2022,Standard Class,TT-6545,THAKUR  PRASAD,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,UPI,476,9,2,40,India,Basti UP,IN-UP,272124
+MA-213471546,28-12-2021,30-12-2021,Standard Class,DD-7065,DHAKHA  BAI,Corporate,MH-MD-13009WT,Technology,Wall,Wall Décor,UPI,766,13,2,73,India,MYSORE,IN-KA,570018
+MA-051588688,24-12-2021,25-12-2021,Standard Class,SS-7883,SHANKAR  JI,Home Office,MH-PF-4018,Technology,Otto,Ottomans,UPI,471,17,4,24,India,Nagercoil,IN-TN,629802
+MA-246512396,23-12-2021,25-12-2021,Standard Class,RR-2882,RAJESH  MANDLOI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,836,5,5,43,India,Mumbai,IN-MH,401107
+MA-992470874,13-12-2021,16-12-2021,Standard Class,VV-5732,VIREDRA  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,UPI,243,57,2,57,India,AMBEJOGAI,IN-MH,431517
+MA-115532502,04-12-2021,07-12-2021,Standard Class,KK-4119,KUVAR  SINGH,Home Office,MH-PF-4020,Technology,Otto,Ottomans,UPI,326,63,0,32,India,Kolkata,IN-WB,700056
+MA-951731993,04-12-2021,07-12-2021,Standard Class,PP-9304,PRATAP  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,587,43,0,62,India,kankipadu,IN-AP,521151
+MA-956767347,01-12-2021,03-12-2021,Standard Class,II-7555,IBRAHIM  KHAN,Home Office,MH-PF-4034,Technology,Otto,Ottomans,UPI,752,54,0,86,India,Chennai,IN-TN,600015
+MA-347266199,30-11-2021,06-12-2021,Standard Class,NN-9804,NIREDRA  SINGH,Corporate,MH-TB-809GR,Office Supplies,Desks,Desks,UPI,263,72,0,48,India,Navalur,IN-TN,603103
+MA-190873244,22-11-2021,25-11-2021,Standard Class,KK-3261,KAMRU  JI,Home Office,MH-PF-4009,Technology,Otto,Ottomans,UPI,736,42,0,10,India,Nagpur,IN-MH,440037
+MA-130317373,15-11-2021,19-11-2021,Second Class,GG-7431,GANPAT  JI,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,UPI,639,76,0,55,India,Pune,IN-MH,411038
+MA-446418996,15-11-2021,19-11-2021,Second Class,SS-8632,SEKDIYA  JI,Home,MH-BD-11500,Furniture,Beds,Beds,UPI,392,78,0,29,India,Shahpura jaipur,IN-AN,303103
+MA-188601715,12-11-2021,15-11-2021,Standard Class,SS-2943,SURESH  JI,Corporate,MH-TB-813GR,Technology,Tables,Coffee & Cocktail Tables,UPI,680,32,0,95,India,Latur,IN-MH,413512
+MA-871918001,30-10-2021,04-11-2021,Second Class,JJ-7898,JEEVAN LAL RATHOR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,194,7,0,27,India,AKBARPUR,IN-UP,224122
+MA-467146433,19-10-2021,22-10-2021,Second Class,AA-9532,AMIT  VANI,Home Office,MH-CS-3015,Office Supplies,Pillows,Accent Pillows,UPI,305,61,0,17,India,PALWAL,IN-HR,121102
+MA-781108377,18-10-2021,19-10-2021,Second Class,MM-3446,MOTE  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,699,77,0,36,India,Jaipur,IN-RJ,302006
+MA-473909668,07-09-2021,09-09-2021,Standard Class,YY-5394,YASIN  JI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,UPI,149,31,0,66,India,majalgaon,IN-MH,431131
+MA-866184635,05-09-2021,08-09-2021,Second Class,RR-6823,RAMESH  JI,Home Office,MH-PF-4032,Technology,Otto,Ottomans,UPI,386,23,0,60,India,DELHI,IN-DL,110041
+MA-705073253,04-09-2021,06-09-2021,Standard Class,AA-5200,ASHOK  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,489,86,0,33,India,Jajpur,IN-OR,755004
+MA-168244527,27-08-2021,29-08-2021,Second Class,BB-3451,BHERU  SINGH,Corporate,MH-TB-811,Office Supplies,Desks,Desks,UPI,843,25,0,49,India,SRINAGAR,IN-JK,190005
+MA-858043122,24-08-2021,26-08-2021,Standard Class,SS-9274,SHANKAR  JI,Home Office,MH-PF-4009,Technology,Otto,Ottomans,UPI,772,25,0,72,India,Chennai,IN-TN,600042
+MA-804491043,15-07-2021,17-07-2021,First Class,SS-5805,SAFI  MOHD,Home,MH-BD-11500,Furniture,Beds,Beds,UPI,384,63,0,47,India,Sultanpur,IN-UP,228171
+MA-461585136,12-07-2021,13-07-2021,Standard Class,RR-7748,RADHESHYAM  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,UPI,286,20,0,38,India,Patiala,IN-PB,147001
+MA-741874528,09-07-2021,11-07-2021,Second Class,KK-9723,KEERU  SINGH,Home Office,MH-PF-4016,Technology,Otto,Ottomans,UPI,621,33,0,68,India,Ghu,IN-JH,825314
+MA-623429114,03-07-2021,05-07-2021,Standard Class,AA-4784,AJMER  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,832,70,0,63,India,Rourkela,IN-OR,769015
+MA-888243142,16-06-2021,18-06-2021,Standard Class,MM-3212,MANGU  JI,Consumer,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,Debit Card,624,85,0,56,India,gangtok,IN-SK,737135
+MA-082123121,03-06-2021,07-06-2021,Second Class,SS-6633,SHAKIL  KHAN,Home,MH-MR-605BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,672,57,0,46,India,Dharur,IN-MH,431124
+MA-973215496,30-05-2021,02-06-2021,Second Class,DD-8395,DHANNA  LAL,Home Office,MH-PF-4028,Technology,Otto,Ottomans,Debit Card,588,14,0,66,India,Bulandshahr,IN-UP,203001
+MA-771283010,20-05-2021,22-05-2021,Second Class,KK-7061,KERAM  SINGH,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,509,32,0,86,India,Bargarh,IN-OR,768040
+MA-865122749,20-05-2021,22-05-2021,Standard Class,VV-7309,VEL  SINGH,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Debit Card,133,11,0,74,India,majalgaon,IN-MH,431131
+MA-437288516,09-04-2021,11-04-2021,Second Class,RR-6624,RAHUL  VANI,Consumer,MH-BS-913LG,Furniture,Stools,Bar Stools,Debit Card,305,74,0,96,India,URULI KANCHAN,IN-MH,412202
+MA-885030606,19-03-2021,21-03-2021,Standard Class,AA-9547,AKHLAK  MOHED,Home Office,MH-PF-4009,Technology,Otto,Ottomans,Debit Card,721,60,0,70,India,Mumbai,IN-MH,400078
+MA-842942556,19-03-2021,22-03-2021,Standard Class,RR-6250,REM  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,831,49,0,85,India,Kanpur,IN-UP,208001
+MA-147648395,10-03-2021,14-03-2021,Second Class,KK-6890,KAMAL  SINGH,Home,MH-MR-602,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,560,90,0,13,India,Pathanamthitta,IN-KL,689691
+MA-164238294,07-03-2021,09-03-2021,Standard Class,SS-5354,SUMAJI  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,699,66,0,14,India,Kaij,IN-MH,431123
+MA-789781678,03-03-2021,05-03-2021,First Class,JJ-9821,JATAN  JI,Home Office,MH-PF-4018,Technology,Otto,Ottomans,Debit Card,228,85,0,20,India,imphal,IN-MN,795001
+MA-928318927,24-02-2021,27-02-2021,First Class,NN-7734,NANA  JI,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,389,79,0,84,India,Bhawanipatna,IN-AN,765017
+MA-943561656,18-02-2021,20-02-2021,First Class,NN-8381,NARENDRA  JI,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,Debit Card,260,82,0,49,India,Saharanpur,IN-UP,247001
+MA-892986923,10-02-2021,12-02-2021,Second Class,SS-5039,SHARIF  JI,Home Office,MH-PF-4043,Technology,Otto,Ottomans,Debit Card,412,81,0,75,India,Muzaffarpur,IN-BR,842001
+MA-445317372,09-02-2021,11-02-2021,Second Class,JJ-4878,JAGDISH  JI,Consumer,MH-SH-132,Office Supplies,Book,Bookcases,Credit Card,786,9,0,56,India,Dindigul,IN-TN,624206
+MA-314523892,07-02-2021,09-02-2021,Standard Class,RR-5877,RAJU  SINGH,Consumer,MH-SH-130,Office Supplies,Book,Bookcases,Credit Card,741,33,0,30,India,Bikaner,IN-RJ,334001
+MA-637893637,06-02-2021,08-02-2021,Second Class,AA-6404,ARCHANA  BAI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,556,1,0,42,India,Bokaro,IN-JH,827012
+MA-270491210,02-02-2021,04-02-2021,First Class,SS-8050,SUNIL  JI,Home Office,MH-PF-4016,Technology,Otto,Ottomans,Credit Card,311,44,6,51,India,majalgaon,IN-MH,431131
+MA-608395431,01-02-2021,03-02-2021,Standard Class,MM-5584,MAKSUDA  BAI,Home Office,MH-PF-4022,Technology,Otto,Ottomans,Credit Card,443,2,4,72,India,"Singaperumal koil , Chengalpattu",IN-TN,603209
+MA-811596082,31-01-2021,04-02-2021,First Class,DD-5573,DINESH  JI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Credit Card,512,25,6,72,India,Dharmabad,IN-MH,431809
+MA-428601129,28-01-2021,30-01-2021,Standard Class,DD-7098,DINESH  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,222,24,5,64,India,Howrah,IN-WB,711109
+MA-634510307,25-01-2021,27-01-2021,Standard Class,TT-3404,THAN  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Credit Card,275,42,3,15,India,Basti UP,IN-UP,272124
+MA-876329546,12-01-2021,15-01-2021,Standard Class,JJ-7425,JAYNATI  LAL,Home Office,MH-CS-3009,Office Supplies,Pillows,Accent Pillows,Credit Card,150,87,7,51,India,Virar (w),IN-MH,401303
+MA-889909033,12-01-2021,15-01-2021,Standard Class,SS-8574,SABIR  MOHAMMAD,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,731,8,4,30,India,Thane Mumbai,IN-MH,400607
+MA-656519423,12-01-2021,14-01-2021,Standard Class,SS-7766,SANDHAYA  JI,Consumer,MH-ST-112,Technology,Shelves,Wall Mounted Shelves,Credit Card,583,28,4,54,India,Dhoraji,IN-GJ,360410
+MA-562328321,10-01-2021,13-01-2021,Second Class,GG-3960,GUMAN  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Credit Card,139,75,0,49,India,Sawantwadi,IN-MH,416510
+MA-157278505,10-01-2021,13-01-2021,Second Class,NN-8694,NARSINGH  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,529,41,0,28,India,Ernakulam,IN-KL,683104
+MA-452430781,08-01-2021,11-01-2021,First Class,SS-3603,SACHIN  JI,Home,MH-BD-11500,Furniture,Beds,Beds,Credit Card,736,41,0,13,India,Kochi,IN-KL,682004
+MA-859367222,08-01-2021,09-01-2021,Standard Class,SS-5209,SANJAY  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Credit Card,142,53,0,38,India,Chennai,IN-TN,600062
+MA-935461544,05-01-2021,07-01-2021,Second Class,GG-6609,GUDDU  JI,Home,MH-MR-607BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,832,23,0,84,India,Chennai,IN-TN,600015
+MA-780235087,31-12-2020,01-01-2020,Second Class,RR-3298,RATNIYA  JI,Home Office,MH-PF-4018,Technology,Otto,Ottomans,Debit Card,412,51,0,56,India,Wani,IN-MH,445304
+MA-823277429,28-12-2020,30-12-2020,Standard Class,RR-7092,RAJESH  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,698,82,0,58,India,Lucknow,IN-UP,226025
+MA-695971949,28-12-2020,30-12-2020,Second Class,SS-7267,SOHAN  MORYA,Home Office,MH-PF-4016,Technology,Otto,Ottomans,Debit Card,656,83,0,68,India,majalgaon,IN-MH,431131
+MA-281369249,19-12-2020,22-12-2020,Standard Class,BB-7208,BALVANT  JI,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Debit Card,342,36,0,49,India,Chennai,IN-TN,603103
+MA-351513884,06-12-2020,09-12-2020,First Class,CC-4096,CHETAN  KUAMR,Consumer,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,Debit Card,703,77,0,29,India,Mumbai,IN-MH,400064
+MA-436935866,18-11-2020,20-11-2020,Second Class,AA-1647,A  SHAKIR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,541,39,0,59,India,Chandrapur,IN-MH,442505
+MA-633864314,21-10-2020,23-10-2020,First Class,TT-2065,TULSI RAM RATHORE,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,180,38,0,16,India,Sandur,IN-KA,583119
+MA-935547727,15-10-2020,17-10-2020,First Class,AA-6549,ABHISHEK  JAIN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,681,56,0,14,India,Chandrapur,IN-MH,442505
+MA-634154662,12-10-2020,14-10-2020,Standard Class,VV-8561,VESTA  JI,Consumer,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,Debit Card,697,8,0,75,India,majalgaon,IN-MH,431131
+MA-811247714,08-10-2020,11-10-2020,Standard Class,LL-8029,LAXMI  JI,Corporate,MH-TB-809GR,Office Supplies,Desks,Desks,Debit Card,563,65,0,37,India,Greater Noida West,IN-UP,201307
+MA-616959302,08-10-2020,11-10-2020,Standard Class,SS-9634,SUR  SINGH,Home Office,MH-PF-4016,Technology,Otto,Ottomans,Debit Card,516,73,0,32,India,Udgir,IN-MH,413517
+MA-712101280,07-10-2020,09-10-2020,Standard Class,MM-4906,MANGLAYA  JI,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,833,23,0,88,India,Karungal,IN-TN,629156
+MA-353938941,12-09-2020,14-09-2020,Standard Class,RR-7843,RAJU  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,591,10,0,69,India,Chennai,IN-TN,600005
+MA-085402477,12-09-2020,14-09-2020,Second Class,RR-3028,RAKESH  JI,Consumer,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,Debit Card,181,39,0,33,India,Palanpur,IN-GJ,385001
+MA-139328950,05-09-2020,08-09-2020,Standard Class,SS-7657,SANJAY  JI,Home Office,MH-PF-4001,Technology,Otto,Ottomans,Debit Card,512,88,0,55,India,Wandoor,IN-KL,679339
+MA-429418837,31-08-2020,01-09-2020,Standard Class,MM-8068,MOIJ  SAUFUDDIN,Consumer,MH-ST-102BZ,Technology,Shelves,Wall Mounted Shelves,Debit Card,652,20,0,59,India,Surajpur,IN-CT,497231
+MA-242919160,26-08-2020,28-08-2020,Standard Class,BB-6898,BANGAT  RAM,Home,MH-MR-633,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,543,29,0,52,India,Rohtak,IN-HR,124001
+MA-800443458,12-08-2020,14-08-2020,Second Class,MM-8750,MEHBUB  J,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,717,1,0,17,India,Berhampur,IN-OR,760008
+MA-771283010,10-08-2020,11-08-2020,First Class,RR-3863,RAMESH  JI,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,502,28,0,89,India,Nellore,IN-AP,524002
+MA-254534188,05-08-2020,08-08-2020,Standard Class,SS-5671,SARDAR  JI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,269,80,0,66,India,Shahpura jaipur,IN-RJ,303103
+MA-110415532,20-07-2020,22-07-2020,Standard Class,MM-5230,MANIYA  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,350,84,0,38,India,Bangalore,IN-KA,560037
+MA-708163512,14-07-2020,15-07-2020,Standard Class,GG-9231,GUDDU  JI,Home,MH-MR-611WT,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,513,55,0,65,India,Dehradun,IN-UT,248001
+MA-498709879,14-07-2020,18-07-2020,Second Class,SS-6879,SURESH CHANDRA VERMA,Home,MH-MR-606BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,609,77,0,33,India,Latur,IN-MH,413512
+MA-669848954,02-06-2020,03-06-2020,Second Class,SS-6739,SURESH  CHANDRA,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,354,61,0,68,India,Parli vaijnath,IN-MH,431515
+MA-254040176,31-05-2020,03-06-2020,Second Class,MM-4588,MUKAM  SINGH,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,803,83,0,19,India,Patiala,IN-PB,147001
+MA-391183790,18-05-2020,20-05-2020,Second Class,NN-6232,NAHILIYA  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,794,28,0,47,India,Ernakulam,IN-KL,682032
+MA-892986923,17-05-2020,19-05-2020,Second Class,BB-5836,BAHADUR  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,656,75,0,44,India,CHANDRAPUR,IN-MH,442401
+MA-621669730,02-05-2020,05-05-2020,First Class,GG-3020,GENDA LAL VANI,Home,MH-MR-605GD,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,790,90,0,69,India,Indore,IN-MP,453441
+MA-001169829,29-04-2020,30-04-2020,First Class,SS-2054,SUNIL  CHUHAN,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,241,87,0,86,India,majalgaon,IN-MH,431131
+MA-512497801,27-04-2020,29-04-2020,Standard Class,NN-9812,NIRMALA  JI,Home Office,MH-PF-4034,Technology,Otto,Ottomans,Debit Card,319,31,0,49,India,Kadapa,IN-AP,516001
+MA-936908994,20-04-2020,22-04-2020,Standard Class,KK-3668,KARAM  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,501,61,0,88,India,Bengaluru,IN-KA,560073
+MA-703672761,19-04-2020,21-04-2020,Standard Class,KK-8243,KAILASH CHANDRA JI,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,Debit Card,540,57,0,53,India,chennai,IN-TN,600016
+MA-348789221,12-04-2020,14-04-2020,Second Class,VV-7435,VIJAY KUMA RM,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,COD,493,8,2,80,India,Kaij,IN-MH,431123
+MA-456156378,06-04-2020,08-04-2020,Second Class,DD-7790,DASHARIYA  JI,Home,MH-BD-11500,Furniture,Beds,Beds,COD,828,2,7,17,India,New delhi,IN-DL,110027
+MA-378351960,01-04-2020,04-04-2020,First Class,KK-4884,KARAM CHAND CHAWDA JI,Home,MH-MR-620,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,402,50,6,24,India,Jaspur,IN-UT,244712
+MA-839321129,31-03-2020,01-04-2020,Standard Class,II-8408,ISAMUDDIN  JI,Consumer,MH-PI-12002BK,Home Furniture,Frames,Picture Frames,COD,308,32,2,81,India,Rajahmundry,IN-AP,533101
+MA-483227806,29-03-2020,30-03-2020,Standard Class,AA-8207,ABID  HUSAIN,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,COD,502,12,7,89,India,Chandrapur,IN-MH,442505
+MA-832645374,24-03-2020,25-03-2020,Standard Class,SS-6269,SOM CHNDRA RATHOR,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,COD,294,1,7,87,India,Ambejogai,IN-MH,431517
+MA-315933944,12-03-2020,13-03-2020,Second Class,GG-8629,GANPAT  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,759,30,4,19,India,Gorakhpur,IN-UP,273015
+MA-347382739,11-03-2020,13-03-2020,Second Class,KK-1182,KALUSA  JI,Home Office,MH-TB-801,Furniture,Tables,End Tables,COD,131,33,7,82,India,Delhi,IN-DL,110085
+MA-595961052,11-03-2020,13-03-2020,Second Class,MM-6729,MAHENDRA  SINGH,Corporate,MH-MD-13009GR,Technology,Wall,Wall Décor,COD,175,85,0,26,India,Surendranagar,IN-GJ,363030
+MA-923595803,09-03-2020,11-03-2020,First Class,BB-7896,BAN  SINGH,Home,MH-BD-11501,Furniture,Beds,Beds,COD,813,52,0,89,India,Dombivali,IN-MH,421202
+MA-800615030,05-03-2020,09-03-2020,Standard Class,BB-6238,BHIMA  JI,Home Office,MH-PF-4009,Technology,Otto,Ottomans,COD,298,78,0,93,India,New Delhi,IN-DL,110059
+MA-056151644,01-03-2020,06-03-2020,First Class,DD-7325,DUKALIYA  KUMAR,Home Office,MH-PF-4017,Technology,Otto,Ottomans,COD,848,63,0,67,India,Gurgaon,IN-HR,122004
+MA-494064077,01-03-2020,05-03-2020,First Class,TT-4745,TAIYYAB  ALI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,COD,556,35,0,88,India,Kovvur,IN-AP,534350
+MA-437481487,26-02-2020,29-02-2020,Standard Class,BB-2533,BHARAT  RATHORE,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,595,82,0,88,India,Chennai,IN-TN,600123
+MA-814626482,09-02-2020,11-02-2020,First Class,DD-2689,DINESH  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,350,51,0,39,India,Ghazaibad,IN-UP,201010
+MA-969504414,07-02-2020,11-02-2020,Standard Class,MM-3072,MOHAN  LAL,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,COD,240,88,0,34,India,Nandhyal,IN-AP,518501
+MA-950166630,03-02-2020,05-02-2020,Standard Class,JJ-6908,JAGDISHCHANDRA  J,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,COD,638,1,0,55,India,New Delhi,IN-DL,110003
+MA-538455839,18-01-2020,22-01-2020,First Class,TT-2802,TRILOK CHAND RATHORE,Corporate,MH-TB-813,Technology,Tables,Coffee & Cocktail Tables,COD,798,88,0,22,India,Basti UP,IN-UP,272124
+MA-107406633,07-01-2020,11-01-2020,Standard Class,MM-5851,MANDHAR  JI,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,COD,348,35,0,42,India,Hanumangarh,IN-RJ,335512
+MA-368809180,27-12-2019,29-12-2019,Second Class,DD-9063,DUKALIYA  SINGH,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,COD,594,46,0,96,India,Bangalore,IN-KA,560051
+MA-507150233,25-12-2019,29-12-2019,Second Class,TT-3406,THIVRIYA  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,359,38,0,54,India,Ambernath,IN-MH,421505
+MA-824749358,23-12-2019,25-12-2019,Second Class,KK-4765,KUVAR  SINGH,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,COD,642,61,0,41,India,Bangalore,IN-KA,560016
+MA-459146733,16-12-2019,18-12-2019,Second Class,KK-4818,KUVAR  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,COD,166,35,0,28,India,Muktsar,IN-PB,152032
+MA-446234509,07-12-2019,09-12-2019,First Class,NN-6237,NAN  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,531,90,0,96,India,Kolar,IN-KA,563157
+MA-928789742,30-11-2019,03-12-2019,Standard Class,PP-6896,PRVEEN  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,573,31,0,39,India,Bikaner,IN-RJ,334001
+MA-766313563,28-11-2019,30-11-2019,Second Class,HH-8742,HASIRUDDIN  MAKRANI,Home Office,MH-PF-4034,Technology,Otto,Ottomans,UPI,154,57,0,40,India,Chennai,IN-TN,600117
+MA-949298264,28-11-2019,30-11-2019,Standard Class,PP-6591,PARTHO  RAI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,334,87,0,41,India,Burhanpur,IN-MP,450331
+MA-106402808,20-11-2019,23-11-2019,Second Class,KK-5729,KALI  BAI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,180,19,0,10,India,Badarpur,IN-AS,788806
+MA-338789022,12-11-2019,13-11-2019,Second Class,CC-9494,CHATER  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,455,55,0,24,India,Pune,IN-MH,411058
+MA-824228880,10-11-2019,13-11-2019,Second Class,MM-3625,MEH  MUDA,Home,MH-MR-606BK,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,812,33,0,77,India,"Hanamkonda, warangal",IN-TG,506001
+MA-742268788,06-11-2019,08-11-2019,Standard Class,MM-3492,MOH  ERSHAD,Home Office,MH-ST-101,Technology,Shelves,Wall Mounted Shelves,UPI,574,44,0,13,India,Delhi,IN-DL,110093
+MA-487921687,04-11-2019,08-11-2019,Standard Class,RR-4099,RAJENDRA  KUMAR,Corporate,MH-MD-13001GR,Technology,Wall,Wall Décor,UPI,764,89,0,88,India,Kalyan,IN-MH,421301
+MA-766368536,03-11-2019,07-11-2019,Standard Class,RR-3864,RAMESH  KUMAR,Home,MH-MR-602,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,236,17,0,34,India,Chennai,IN-TN,600048
+MA-347400283,16-10-2019,19-10-2019,Second Class,HH-4241,HEMANT  KUMAR,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,UPI,409,48,0,89,India,Takhatgarh,IN-RJ,306912
+MA-129976393,05-10-2019,08-10-2019,First Class,PP-5559,PIRTI  BAI,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,UPI,154,46,0,33,India,ALLAHABAD,IN-UP,221503
+MA-249818826,30-09-2019,04-10-2019,Standard Class,II-8439,INDAR  KUMAR,Home Office,MH-PF-4018,Technology,Otto,Ottomans,UPI,141,38,0,72,India,Gumla,IN-JH,835207
+MA-793968146,29-09-2019,30-09-2019,First Class,VV-7903,VIPIN  SINGH,Consumer,MH-ST-108,Technology,Shelves,Wall Mounted Shelves,UPI,677,31,0,57,India,AMBEJOGAI,IN-MH,431517
+MA-958147313,14-09-2019,18-09-2019,First Class,NN-2350,NARENDRA  KOTHARI,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,UPI,714,8,0,47,India,Saharanpur,IN-UP,247001
+MA-079104711,07-09-2019,09-09-2019,First Class,MM-7865,MAL  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,UPI,228,87,0,16,India,Nellore,IN-AP,524314
+MA-460873625,27-08-2019,29-08-2019,First Class,BB-2987,BHUVAN  SINGH,Home Office,MH-PF-4014,Technology,Otto,Ottomans,UPI,449,32,0,72,India,Nagamangala,IN-KA,560034
+MA-255024097,22-08-2019,25-08-2019,First Class,SS-6825,SHER  SINGH,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,UPI,553,2,0,93,India,majalgaon,IN-MH,431131
+MA-656628777,19-08-2019,21-08-2019,Standard Class,MM-4523,MUKAJAL  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,372,76,0,18,India,Erode,IN-TN,638107
+MA-623638719,18-08-2019,21-08-2019,Standard Class,JJ-6072,JAY  PRAKASH,Home Office,MH-PF-4043,Technology,Otto,Ottomans,UPI,290,62,0,76,India,Silvassa,IN-DN,396230
+MA-302536392,18-08-2019,21-08-2019,Standard Class,PP-9572,PRASHANT  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,554,37,0,55,India,Hyderabad,IN-AP,500018
+MA-796321374,05-08-2019,08-08-2019,First Class,RR-8009,RAJIYA  KUMARI,Corporate,MH-MD-13007WT,Technology,Wall,Wall Décor,UPI,709,73,0,92,India,jammu,IN-JK,180011
+MA-446351926,31-07-2019,01-08-2019,Second Class,SS-2798,SANTOSH  MAHESHWARI,,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,491,89,3,43,India,Yamunanagar,IN-HR,135003
+MA-634510307,17-07-2019,18-07-2019,Standard Class,MM-2895,METHU  RAM,Corporate,MH-MD-13007WT,Technology,Wall,Wall Décor,UPI,227,68,4,41,India,Berhampur,IN-OR,760002
+MA-866892310,14-07-2019,17-07-2019,Standard Class,JJ-8457,JITENDRA  KUMAR,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,UPI,758,33,2,13,India,Una,IN-HP,177209
+MA-518109315,13-07-2019,16-07-2019,First Class,KK-7680,KRISHNA  KANT,Consumer,MH-ST-110,Technology,Shelves,Wall Mounted Shelves,UPI,212,57,6,12,India,Ahmednagar,IN-MH,414003
+MA-892986923,08-07-2019,11-07-2019,Standard Class,MM-6765,MAGAN  SINGH,Home Office,MH-PF-4009,Technology,Otto,Ottomans,UPI,525,55,7,81,India,Surendranagar,IN-GJ,363030
+MA-154125239,02-07-2019,05-07-2019,Standard Class,BB-6308,BUDHA  LAL,Home Office,MH-PF-4020,Technology,Otto,Ottomans,UPI,497,4,5,55,India,Bhilwara,IN-RJ,311001
+MA-819849845,27-06-2019,29-06-2019,First Class,BB-7259,BABULU  LAL,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,420,68,4,76,India,Siliguri,IN-WB,734005
+MA-818426015,23-06-2019,25-06-2019,First Class,DD-5885,DHARAM VIR SINGH,Home Office,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,432,77,5,65,India,PUDDKOTTAI,IN-TN,621316
+MA-518109315,23-06-2019,25-06-2019,Second Class,KK-6282,KUNVARA  KUMAR,Corporate,MH-TB-814,Technology,Tables,Coffee & Cocktail Tables,UPI,142,82,6,93,India,Jaipur,IN-RJ,303108
+MA-741985829,23-06-2019,25-06-2019,Standard Class,PP-9691,PRATIK  RAI,Home Office,MH-PF-4024,Technology,Otto,Ottomans,UPI,232,46,7,69,India,Gurgaon,IN-HR,122006
+MA-188001971,23-06-2019,25-06-2019,Standard Class,TT-6464,TERLA  LAL,Consumer,MH-ST-110,Technology,Shelves,Wall Mounted Shelves,UPI,378,60,4,95,India,Anaiyur Virudhunagar District,IN-TN,626124
+MA-541503788,04-06-2019,08-06-2019,Standard Class,RR-5783,RAJANI  KANT,Home,MH-MR-638,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,407,53,7,62,India,Varanasi,IN-UP,221007
+MA-503267101,30-05-2019,04-06-2019,Second Class,JJ-4730,JIGNESH  KUMAR,Corporate,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,618,43,2,16,India,Salem,IN-TN,636005
+MA-490315493,12-05-2019,13-05-2019,Second Class,BB-5940,BHAGAT  SINGH,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,137,1,3,78,India,MUMBAI,IN-MH,400069
+MA-269804490,11-05-2019,13-05-2019,Second Class,KK-3373,KANTI  LAL,Consumer,MH-ST-107GD,Technology,Shelves,Wall Mounted Shelves,UPI,661,87,3,28,India,Raina,IN-WB,713421
+MA-798369072,10-05-2019,13-05-2019,Standard Class,NN-5465,NURLA  JI,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,UPI,318,9,2,63,India,Hyderabad,IN-TG,502032
+MA-198270227,08-05-2019,09-05-2019,Standard Class,SS-8306,SEKDIYA  LAL,Corporate,MH-TB-813,Technology,Tables,Coffee & Cocktail Tables,Debit Card,569,68,4,36,India,Dhanbad,IN-JH,826001
+MA-303983540,24-04-2019,25-04-2019,Standard Class,CC-9084,CHATRIYA  KUMAR,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,364,27,5,76,India,GURUGRAM,IN-HR,122015
+MA-554830047,21-04-2019,27-04-2019,Standard Class,PP-7899,PAL  SINGH,Corporate,MH-MD-13007WT,Technology,Wall,Wall Décor,Debit Card,783,82,0,36,India,Chennai,IN-TN,600034
+MA-446389522,10-04-2019,17-04-2019,Standard Class,DD-7021,DEVALA  KUMAR,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,Debit Card,602,41,0,44,India,suratgarh,IN-RJ,335804
+MA-526519183,06-04-2019,08-04-2019,Second Class,HH-2900,HAMEER  JI,Home,MH-MR-620,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,725,18,0,27,India,Ahmedabad,IN-GJ,380008
+MA-881434690,31-03-2019,04-04-2019,Standard Class,KK-7249,KALU  RAM,Home Office,MH-PF-4034,Technology,Otto,Ottomans,Debit Card,817,70,0,45,India,Chennai,IN-TN,600023
+MA-740380241,31-03-2019,03-04-2019,Standard Class,MM-9478,MOHD SHABBIR KHAN,Corporate,MH-MD-13009WT,Technology,Wall,Wall Décor,Debit Card,138,61,0,50,India,Thane,IN-MH,401101
+MA-899640769,26-03-2019,29-03-2019,Standard Class,BB-2402,BHAL  CHANDRA,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,Debit Card,532,83,0,85,India,Udupi,IN-KA,576211
+MA-446418996,19-03-2019,21-03-2019,Second Class,DD-8725,DILIP  LAL,Home,MH-MR-606BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,298,18,0,43,India,PUDDKOTTAI,IN-TN,621316
+MA-735971499,10-03-2019,11-03-2019,Standard Class,II-3474,INDRIYA  LAL,Home Office,MH-PF-4014,Technology,Otto,Ottomans,Debit Card,319,26,0,81,India,Hyderabad,IN-TG,500034
+MA-294726864,03-03-2019,06-03-2019,Standard Class,SS-2096,SUKALA  RAM,Corporate,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,781,79,0,22,India,Kaij,IN-MH,431123
+MA-446418996,19-02-2019,21-02-2019,Standard Class,SS-5643,SAL  SINGH,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,566,9,0,72,India,Sligarh up,IN-UP,202002
+MA-437438832,16-02-2019,18-02-2019,Standard Class,NN-2809,NANI  BAI,Home Office,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,794,69,0,53,India,Berhampur,IN-OR,760001
+MA-778481123,15-02-2019,17-02-2019,Standard Class,JJ-8908,JAMAL  UDDIN,Home,MH-MR-606BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,713,64,0,31,India,hyderabad,IN-TG,500055
+MA-328701862,09-02-2019,10-02-2019,First Class,SS-7988,SUNITA  BAI,Home Office,MH-PF-4034,Technology,Otto,Ottomans,Credit Card,331,66,0,40,India,majalgaon,IN-MH,431131
+MA-229154848,05-02-2019,07-02-2019,First Class,MM-5556,MANNU  SINGH,Home Office,MH-PF-4033GR,Technology,Otto,Ottomans,Credit Card,665,43,0,64,India,Berhampur,IN-OR,760001
+MA-190873244,03-02-2019,05-02-2019,Standard Class,RR-6264,RADHU  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,335,44,0,85,India,AKBARPUR,IN-UP,224122
+MA-157278505,10-01-2019,12-01-2019,Standard Class,JJ-5581,JAGDISH  LAL,Home Office,MH-PF-4034,Technology,Otto,Ottomans,Credit Card,554,46,0,45,India,Kewat Gama,IN-BR,848213
+MA-500560090,31-12-2018,04-01-2018,Standard Class,SS-7851,SAFEE  MOHD,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Credit Card,382,78,0,88,India,Pudukkottai,IN-TN,622001
+MA-063436583,28-12-2018,30-01-2018,Standard Class,UU-8069,UCHCHHAM  SINGH,Corporate,MH-ST-108,Technology,Shelves,Wall Mounted Shelves,Credit Card,397,5,0,11,India,Bangaluru,IN-KA,560061
+MA-093219933,16-12-2018,18-12-2018,Standard Class,MM-3589,MUSHAHID  HUSSAIN,Home,MH-MR-609WT,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,431,39,0,27,India,Berhampur,IN-OR,760001
+MA-551956390,06-12-2018,07-12-2018,First Class,SS-8631,SAWAL  SINGH,Corporate,MH-MD-13007WT,Technology,Wall,Wall Décor,Credit Card,708,43,0,81,India,Vaithiswaran koil,IN-TN,609117
+MA-871918001,01-12-2018,02-12-2018,Standard Class,AA-2035,ASHIK  KUMAR,Home Office,MH-PF-4010,Technology,Otto,Ottomans,Credit Card,615,78,0,20,India,VARANASI,IN-UP,221002
+MA-544301559,20-11-2018,22-11-2018,First Class,JJ-9278,JALIYA  LAL,Corporate,MH-TB-813,Technology,Tables,Coffee & Cocktail Tables,Credit Card,433,32,0,12,India,NOIDA,IN-UP,201301
+MA-258276012,19-11-2018,21-11-2018,First Class,SS-4935,SALIM  KUMAR,Home Office,MH-PF-4041,Technology,Otto,Ottomans,Credit Card,711,65,0,41,India,Gsahha,IN-DD,123375
+MA-464127417,13-11-2018,15-11-2018,First Class,SS-5672,SCEWATA  BAI,Corporate,MH-ST-112,Technology,Shelves,Wall Mounted Shelves,Credit Card,503,39,0,43,India,WARANGAL,IN-TG,506009
+MA-973313790,07-11-2018,09-11-2018,Second Class,SS-5825,SAMAY  SINGH,Home Office,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Credit Card,359,67,0,91,India,Hubli,IN-KA,580032
+MA-561364746,27-10-2018,29-10-2018,Second Class,AA-3737,ANKT  BEWA,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,302,53,0,45,India,Hyderabad,IN-TG,500074
+MA-391502295,25-10-2018,28-10-2018,Standard Class,HH-7591,HARSHIT  RATHOD,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,Credit Card,345,18,0,20,India,Chennai,IN-TN,600005
+MA-907342740,24-10-2018,26-10-2018,Standard Class,PP-4341,PRATAP  JI,Corporate,MH-MD-13001GR,Technology,Wall,Wall Décor,Debit Card,464,28,0,27,India,Pune,IN-MH,411028
+MA-833587298,24-10-2018,26-10-2018,First Class,SS-5263,SANTOSH  LAL,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,179,3,0,26,India,Dhanbad,IN-JH,826001
+MA-406163355,09-10-2018,11-10-2018,Standard Class,AA-7575,AMAN  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,642,77,0,64,India,pauri garhwal,IN-UT,246001
+MA-363930769,06-10-2018,09-10-2018,First Class,PP-3926,POOJA  CHOUHAN,Home Office,MH-CH-706,Office Supplies,Chairs,Accent Chairs,Debit Card,202,23,0,12,India,CHENNAI,IN-TN,600078
+MA-474615559,05-10-2018,08-10-2018,Standard Class,DD-3273,DINESH  KUAMR,Corporate,MH-ST-118,Technology,Shelves,Wall Mounted Shelves,Debit Card,486,29,0,57,India,Coimbatore In,IN-TN,641035
+MA-868427981,01-10-2018,03-10-2018,Standard Class,KK-5097,KHUMAL  SINGH,Home Office,MH-PF-4018,Technology,Otto,Ottomans,Debit Card,188,56,0,62,India,Thiruvallur,IN-TN,602001
+MA-873876951,27-09-2018,29-09-2018,Standard Class,VV-4936,VIRENDRA  LAL,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,509,36,0,21,India,majalgaon,IN-MH,431131
+MA-074277499,21-09-2018,23-09-2018,Standard Class,NN-6732,NITIN  SHARMA,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,Debit Card,134,29,0,44,India,darbhanga,IN-BR,846001
+MA-406161996,20-09-2018,23-09-2018,Standard Class,DD-3496,DINESH  CHANDRA,Home Office,MH-PF-4034,Technology,Otto,Ottomans,Debit Card,618,48,0,92,India,Ernakulam,IN-KL,683501
+MA-718933841,09-09-2018,11-09-2018,Standard Class,JJ-2264,JAGU  BAI,Consumer,MH-ST-109,Technology,Shelves,Wall Mounted Shelves,Debit Card,845,14,0,47,India,Chennai,IN-TN,600086
+MA-892986923,06-09-2018,9/1o/2018,Standard Class,DD-6529,DHOKALIYA  LAL,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,Debit Card,584,50,0,38,India,Kanpur Nagar,IN-UP,208027
+MA-479021641,29-08-2018,30-08-2018,Standard Class,RR-4582,RATAN  SINGH,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,609,57,0,64,India,DELHI,IN-DL,110041
+MA-790592827,28-08-2018,30-08-2018,Standard Class,KK-9757,KHUMAN  SINGH,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,237,19,0,91,India,"Ramgarh, jharkhand",IN-JH,825314
+MA-808008112,21-08-2018,23-08-2018,Standard Class,RR-2407,RAJESH  KUMAR,Home Office,MH-PF-4009,Technology,Otto,Ottomans,Debit Card,532,3,0,68,India,Puducherry,IN-PY,605010
+MA-054142917,19-08-2018,22-08-2018,Standard Class,AA-9547,ASHOK  KUMAR,Home,MH-MR-643,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,760,60,0,85,India,Delhi,IN-DL,120085
+MA-987194070,18-08-2018,22-08-2018,Standard Class,GG-2557,GENDA  LAL,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,161,8,0,67,India,Golaghat,IN-AS,785601
+MA-237851037,16-08-2018,19-08-2018,Standard Class,SS-6754,SANTOSH  KUMAR,Consumer,MH-SH-133,Office Supplies,Book,Bookcases,Debit Card,342,46,0,63,India,Muzaffarpur,IN-BR,842001
+MA-426985214,11-08-2018,13-08-2018,First Class,NN-7892,NAVKEDI  BAI,Consumer,MH-SH-132,Office Supplies,Book,Bookcases,Debit Card,458,49,0,57,India,Aurangabad,IN-MH,431001
+MA-801964662,07-08-2018,09-08-2018,Second Class,MM-4122,MANOHAR  LAL,Home Office,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,790,54,0,84,India,AKBARPUR,IN-UP,224122
+MA-602669812,07-08-2018,08-08-2018,Second Class,RR-5874,RAM  DATT,Consumer,MH-ST-109,Technology,Shelves,Wall Mounted Shelves,Debit Card,373,68,0,60,India,Palanpur,IN-GJ,385001
+MA-536409760,28-07-2018,30-07-2018,Standard Class,VV-4997,VISTA  KUMAR,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,137,5,0,56,India,majalgaon,IN-MH,431131
+MA-378804224,27-07-2018,29-07-2018,Second Class,DD-2073,DEVI  SINGH,Consumer,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,Debit Card,282,28,0,11,India,HOWRAH,IN-WB,711109
+MA-036074784,20-07-2018,28-07-2018,Second Class,VV-6455,VISHAN  SINGH,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,645,17,0,50,India,majalgaon,IN-MH,431131
+MA-709902352,18-07-2018,19-07-2018,Standard Class,LL-2789,LILA  BAI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,743,36,0,20,India,Coimbatore,IN-TN,641659
+MA-273893215,18-07-2018,19-07-2018,Second Class,MM-9054,MANISH  KUMAR,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,642,51,0,82,India,Warangal,IN-TG,506001
+MA-826496470,15-07-2018,17-07-2018,Second Class,NN-2812,NAGAR  SIGNH,Corporate,MH-MD-13003WT,Technology,Wall,Wall Décor,Debit Card,722,48,0,96,India,New Delhi,IN-DL,110044
+MA-892986923,14-07-2018,19-07-2018,Second Class,UU-2386,URMILA  KUMAR,Home,MH-MR-639,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,470,24,0,62,India,Mumbai,IN-MH,400004
+MA-238262431,07-07-2018,09-07-2018,Standard Class,AA-9689,AJIJ  KHAN,Corporate,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,705,1,0,55,India,NEW DELHI,IN-DL,110025
+MA-861500555,07-07-2018,09-07-2018,Standard Class,JJ-4286,JHENDU  RAM,Home Office,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,826,10,0,51,India,Gaya,IN-BR,824237
+MA-979355643,26-06-2018,30-06-2018,First Class,RR-5405,RAJENDRA  JI,Home Office,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,457,45,0,20,India,Chennai,IN-TN,600049
+MA-054597830,18-06-2018,20-06-2018,First Class,RR-2501,RAJENDRA  KUMRA,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,752,79,0,22,India,"Shalimar Bagh, Delhi",IN-DL,110088
+MA-355378787,14-06-2018,16-06-2018,First Class,GG-5281,GUMAN  SINGH,Home,MH-MR-602,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,737,27,0,31,India,chennai,IN-TN,600024
+MA-555383605,10-06-2018,15-06-2018,Second Class,SS-7348,SHELESH KUMAR MODI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,399,84,0,90,India,majalgaon,IN-MH,431131
+MA-790592827,30-05-2018,03-06-2018,Standard Class,KK-2301,KAR  SINGH,Consumer,MH-ST-112,Technology,Shelves,Wall Mounted Shelves,COD,497,36,0,11,India,Shimla,IN-HP,171207
+MA-327716669,30-05-2018,06-06-2018,Standard Class,YY-9134,YUSUF  KUMAR,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,COD,665,15,0,24,India,Parli vaijnath,IN-MH,431515
+MA-968287365,03-05-2018,05-05-2018,Standard Class,JJ-9376,JITENDRA  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,372,24,0,43,India,Madurai,IN-TN,625016
+MA-437438832,17-04-2018,27-04-2018,Standard Class,FF-1605,FARTEMA  BANO,Corporate,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,617,65,0,84,India,Bilgi,IN-KA,587116
+MA-505053625,14-04-2018,24-04-2018,Standard Class,SS-6782,SHADIK  KHAN,Home Office,MH-PF-4016,Technology,Otto,Ottomans,COD,351,55,0,41,India,ambajogai,IN-MH,431517
+MA-258084771,08-04-2018,09-04-2018,Standard Class,PP-7884,PARTHO  RAY,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,COD,729,68,0,66,India,Burhanpur,IN-MP,450331
+MA-418469368,07-04-2018,09-04-2018,Standard Class,CC-7286,CHHAGAN  SINGH,Corporate,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,COD,273,79,0,81,India,Bhilwara,IN-RJ,311001
+MA-158618274,29-03-2018,30-03-2018,Standard Class,BB-5030,BABU  LAL,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,449,75,0,63,India,Delhi,IN-DL,110085
+MA-327234515,29-03-2018,30-03-2018,First Class,CC-5522,CHUCHARIYA  JI,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,324,77,0,34,India,Bhubaneswar,IN-OR,754141
+MA-891038876,27-03-2018,29-03-2018,First Class,SS-3025,SUR TAN JI,Consumer,MH-BS-913LG,Furniture,Stools,Bar Stools,COD,814,65,0,36,India,majalgaon,IN-MH,431131
+MA-463606328,23-03-2018,27-03-2018,Second Class,OO-1618,OM  SHANKAR,Corporate,MH-ST-118,Technology,Shelves,Wall Mounted Shelves,COD,503,73,0,62,India,darbhanga,IN-BR,846001
+MA-073786226,17-03-2018,19-03-2018,Standard Class,RR-4563,RAM  SINGH,Home,MH-MR-602,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,213,13,0,18,India,ALLAHABAD,IN-UP,221503
+MA-047762355,20-02-2018,22-02-2018,Standard Class,SS-2059,SUMIT  BERVA,Home Office,MH-PF-4020,Technology,Otto,Ottomans,COD,700,84,7,25,India,AMBEJOGAI,IN-MH,431517
+MA-155898061,19-02-2018,22-02-2018,Standard Class,KK-6333,KHURSHID  KHAN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,285,48,4,37,India,nagappatinam,IN-TN,609313
+MA-246512396,11-02-2018,14-02-2018,First Class,VV-3562,VALI  MOHD,Home Office,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,COD,774,28,6,29,India,Dombivli east,IN-MH,421201
+MA-012904790,08-02-2018,09-02-2018,Standard Class,PP-4672,P S THAKUR,Corporate,MH-TB-811,Office Supplies,Desks,Desks,COD,610,89,7,78,India,Trivandrum,IN-KL,395303
+MA-630560337,03-02-2018,05-02-2018,Standard Class,TT-3455,TERA  SINGH,Corporate,MH-TB-811,Office Supplies,Desks,Desks,COD,194,81,4,40,India,Jabalpur,IN-MP,482002
+MA-701032157,24-01-2018,25-01-2018,Standard Class,MM-6586,MADHU  SINGH,Home,MH-BD-11500,Furniture,Beds,Beds,COD,612,87,2,37,India,Mumbai,IN-MH,400097
+MA-676696064,21-01-2018,25-01-2018,Second Class,SS-6548,SUMIT  KUMAR,Consumer,MH-SH-133,Office Supplies,Book,Bookcases,COD,394,31,3,63,India,AMBEJOGAI,IN-MH,431517
+MA-870486111,17-01-2018,18-01-2018,Standard Class,EE-1166,EMRAN  KHAN,Home,MH-MR-619,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,123,58,2,53,India,Pune,IN-MH,411038
+MA-628447874,17-01-2018,16-01-2018,Standard Class,RR-5723,RISHABH  SHAH,Home,MH-MR-638,Office Supplies,Mirrors,Wall & Accent Mirrors,COD,612,13,2,49,India,Anand,IN-GJ,388001
+MA-496491947,16-01-2018,18-01-2018,Standard Class,CC-4794,CHOTA  SIGNH,Corporate,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,COD,303,35,4,82,India,SURATGARH,IN-RJ,335804
+MA-959798472,11-01-2018,14-01-2018,Standard Class,BB-4549,BHARAT  LAL,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,COD,507,8,6,86,India,Guwahati,IN-AS,781035
+MA-666589310,07-01-2018,09-01-2018,Standard Class,RR-9081,RAJENDRA  KUMAR,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,COD,758,59,0,41,India,Kalyan,IN-MH,421301
+MA-878053082,03-01-2018,05-01-2018,Standard Class,NN-2835,NANALA  KUMAR,Home Office,MH-PF-4022,Technology,Otto,Ottomans,COD,200,35,0,81,India,Berhampur,IN-OR,760001
+MA-481650696,05-12-2017,07-12-2017,Standard Class,HH-5269,HEMLA  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,709,26,0,70,India,PALGHAR,IN-MH,401504
+MA-735023588,01-12-2017,03-12-2017,Standard Class,SS-9624,SAID  KHAN,Corporate,MH-ST-110,Technology,Shelves,Wall Mounted Shelves,UPI,199,47,0,16,India,Pathankot,IN-PB,145025
+MA-187311864,26-11-2017,28-11-2017,First Class,RR-8242,RAMESH  CHAND,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,UPI,604,78,0,76,India,Nellore,IN-AP,524002
+MA-632812487,20-11-2017,22-11-2017,First Class,KK-3231,KALLA  BAI,Home Office,MH-PF-4043,Technology,Otto,Ottomans,UPI,689,79,0,73,India,Vizag,IN-AP,530044
+MA-936821983,17-11-2017,19-11-2017,First Class,JJ-8538,JUVAN  SINGH,Consumer,MH-ST-113,Technology,Shelves,Wall Mounted Shelves,UPI,389,5,0,52,India,faridabad,IN-HR,121002
+MA-441191127,13-11-2017,15-11-2017,First Class,BB-2866,BASU  SINGH,Corporate,MH-TB-811,Office Supplies,Desks,Desks,UPI,470,29,0,52,India,Serchhip,IN-MZ,796181
+MA-368001561,13-11-2017,15-11-2017,First Class,NN-9289,NITIN  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,625,73,0,16,India,URULI KANCHAN,IN-MH,412202
+MA-296624950,05-11-2017,07-11-2017,First Class,HH-4778,HAJARI  BAI,Corporate,MH-TB-809GR,Office Supplies,Desks,Desks,UPI,797,88,0,97,India,AKBARPUR,IN-UP,224122
+MA-537285289,25-10-2017,28-10-2017,Standard Class,SS-2277,SHANKAR  SINGH,Home Office,MH-PF-4037,Technology,Otto,Ottomans,UPI,212,26,0,66,India,Ambajogai,IN-MH,431517
+MA-727610089,15-10-2017,17-10-2017,Standard Class,NN-4981,NARENDRA  KUMAR,Home Office,MH-CH-702,Office Supplies,Chairs,Accent Chairs,UPI,486,19,0,64,India,Saharanpur,IN-UP,247001
+MA-413712160,12-09-2017,15-09-2017,Standard Class,KK-7993,KUTAR  LAL,Home,MH-MR-607BK,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,582,85,0,20,India,chennai,IN-TN,600034
+MA-462948377,07-09-2017,09-09-2017,Second Class,CC-7432,CHHAGANA  SINGH,Consumer,MH-ST-102GD,Technology,Shelves,Wall Mounted Shelves,UPI,547,26,0,83,India,Bengaluru,IN-KA,560016
+MA-499860317,06-09-2017,09-09-2017,Second Class,SS-4744,SAJAUDDIN  KUMAR,Corporate,MH-TB-813,Technology,Tables,Coffee & Cocktail Tables,UPI,458,86,0,54,India,Delhi,IN-DL,110040
+MA-929783929,05-09-2017,07-09-2017,First Class,RR-4567,RAKESH  DAVAR,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,627,31,0,69,India,Palanpur,IN-GJ,385001
+MA-976044160,31-08-2017,01-09-2017,Standard Class,CC-7096,CHATAR  SINGH,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,782,34,0,77,India,Pune,IN-MH,411058
+MA-407347295,31-08-2017,01-09-2017,Standard Class,KK-5546,KIRAN  KUMAR,Home Office,MH-ST-111,Technology,Shelves,Wall Mounted Shelves,UPI,215,45,0,33,India,Alwar,IN-RJ,301402
+MA-327234515,27-08-2017,29-08-2017,Standard Class,SS-5936,SAIFUDDIN  KHAN,Home,MH-MR-618,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,329,19,0,38,India,Chennai,IN-TN,600106
+MA-167112486,11-08-2017,13-08-2017,First Class,SS-8294,SALIM  KHAN,Corporate,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,712,77,0,89,India,Nagpur,IN-MH,440015
+MA-563890001,02-08-2017,05-08-2017,Standard Class,VV-8563,VIJAY  KYAMR,Consumer,MH-ST-110,Technology,Shelves,Wall Mounted Shelves,UPI,277,21,0,24,India,Kaij,IN-MH,431123
+MA-637893637,27-07-2017,29-07-2017,Standard Class,LL-8840,LAXMAN  SINGH,Corporate,MH-TB-811,Office Supplies,Desks,Desks,UPI,604,74,0,27,India,Hubli,IN-KA,580021
+MA-296193655,18-07-2017,19-07-2017,Standard Class,DD-8908,DUNDHARIYA  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,253,10,0,97,India,mumbai,IN-MH,400059
+MA-624059351,24-06-2017,26-06-2017,Second Class,KK-7735,KUNAL  SHARMA,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,UPI,756,76,0,97,India,Ambala,IN-HR,134003
+MA-099059153,22-06-2017,25-06-2017,Second Class,RR-4536,RAMESH KUM RA,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,UPI,557,81,0,29,India,Saharanpur,IN-UP,247001
+MA-265898978,18-06-2017,19-06-2017,Second Class,YY-6757,YUSUF  KHAN,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,476,17,0,13,India,majalgaon,IN-MH,431131
+MA-763690511,17-06-2017,19-06-2017,Second Class,DD-2114,D MADA LAL,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,UPI,162,53,0,21,India,GAUTAM BUDH NAGAR,IN-UP,201304
+MA-892986923,17-06-2017,19-06-2017,Second Class,PP-8762,PRINCE  SONI,Consumer,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,UPI,172,80,0,61,India,Gorakhpur,IN-UP,273406
+MA-022168478,17-06-2017,19-06-2017,Second Class,SS-8330,SAJAN  DEVI,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,UPI,300,8,0,40,India,SHIMLA,IN-HP,171009
+MA-847835307,12-06-2017,15-06-2017,Standard Class,FF-1676,FAKHRUDDIN  KHAN,Home,MH-MR-605BK,Office Supplies,Mirrors,Wall & Accent Mirrors,UPI,685,29,0,45,India,Gaya,IN-BR,823002
+MA-891198462,06-06-2017,08-06-2017,Second Class,NN-9034,NIRMAL  KUMAR,Home Office,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,159,78,0,12,India,Alwar,IN-RJ,301001
+MA-121453094,04-06-2017,06-06-2017,Second Class,KK-7293,KANHIYA  LAL,Consumer,MH-BS-901A,Furniture,Stools,Bar Stools,UPI,197,59,0,15,India,Koraput,IN-OR,764021
+MA-673711334,01-06-2017,03-06-2017,Second Class,RR-2010,REVLA  SINGH,Home,MH-TB-812GR,Home Furniture,TV Stands,TV Stands & Entertainment Centers,UPI,568,6,0,88,India,GOGANNAMATAM,IN-AP,533248
+MA-419713343,25-05-2017,27-05-2017,Second Class,GG-6551,GEMA  KUMAR,Home Office,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,288,75,0,20,India,Gaya,IN-BR,823002
+MA-518109315,22-05-2017,25-05-2017,Second Class,MM-5209,MADAN  LAL,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,UPI,513,69,0,43,India,Berhampur,IN-OR,760001
+MA-363513354,22-05-2017,24-05-2017,Second Class,NN-7729,NAN  SINGH,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,UPI,205,21,0,37,India,gurugram,IN-HR,122001
+MA-950166630,20-05-2017,22-05-2017,Standard Class,HH-8807,HIMMAT  JI,Home Office,MH-PF-4024,Technology,Otto,Ottomans,UPI,669,60,0,67,India,Hyderabad,IN-TG,500052
+MA-599359724,30-04-2017,03-05-2017,Standard Class,SS-6821,SIRAJUDDIN  KUMAR,Corporate,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,UPI,234,60,4,70,India,majalgaon,IN-MH,431131
+MA-778144943,28-04-2017,30-04-2017,Standard Class,CC-2483,CHUNNI LAL RATHORE,Consumer,MH-PI-12009GR,Home Furniture,Frames,Picture Frames,Debit Card,417,39,7,37,India,Pune,IN-AN,411045
+MA-141263882,23-04-2017,25-04-2017,Standard Class,KK-5220,KATIYA  KUMAR,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Debit Card,358,4,3,98,India,AKBARPUR,IN-UP,224122
+MA-698949954,15-04-2017,17-04-2017,Standard Class,MM-3782,MAHESH  KUMAR,Consumer,MH- ST-107,Technology,Shelves,Wall Mounted Shelves,Debit Card,230,72,6,67,India,Cuddaph distric,IN-AP,516360
+MA-828668563,13-04-2017,15-04-2017,Second Class,LL-4740,LOKENDRA  KUMAR,Corporate,MH-MD-13006WT,Technology,Wall,Wall Décor,Debit Card,486,17,2,68,India,Nagercoil,IN-TN,629802
+MA-830190273,09-04-2017,11-04-2017,Standard Class,MM-6589,MADHU SADAN JOSHI,Corporate,MH-MD-13011WT,Technology,Wall,Wall Décor,Debit Card,797,79,7,30,India,Ghaziabad,IN-UP,201005
+MA-378354116,01-04-2017,03-04-2017,First Class,AA-2470,ABDUL  VAHID,Home Office,MH-PF-4019,Technology,Otto,Ottomans,Debit Card,400,50,5,96,India,Chandrapur,IN-MH,442505
+MA-449072814,01-04-2017,03-04-2017,First Class,DD-4576,DINESH  JI,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Debit Card,820,26,2,81,India,Anantnag,IN-JK,192101
+MA-809829918,09-03-2017,11-03-2017,Standard Class,II-7232,INDRAJ  KUAMR,Home Office,MH-PF-4019,Technology,Otto,Ottomans,Debit Card,358,57,2,43,India,miraj,IN-MH,416410
+MA-951731993,08-03-2017,09-03-2017,Standard Class,OO-1629,OMPRAKASH  JI,Home Office,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Debit Card,566,15,4,61,India,akbarpur,IN-UP,224122
+MA-188601715,06-03-2017,07-03-2017,Second Class,SS-4953,SABAL  SINGH,Home,MH-MR-604BK,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,831,74,4,97,India,Indore,IN-MP,452001
+MA-774316862,24-02-2017,28-02-2017,Standard Class,MM-6720,MAHESH  KUMAR,Corporate,MH-MD-13003WT,Technology,Wall,Wall Décor,Debit Card,514,50,2,86,India,Cuddaph distric,IN-AP,516360
+MA-892691327,23-02-2017,26-02-2017,Second Class,AA-3790,ASALM  KUMAR,Consumer,MH-PI-12002BK,Home Furniture,Frames,Picture Frames,Debit Card,728,1,6,21,India,mumbai,IN-MH,400089
+MA-446596436,13-02-2017,15-02-2017,Second Class,RR-4586,RAMESHWAR  JOSHI,Consumer,MH-ST-102,Technology,Shelves,Wall Mounted Shelves,Debit Card,640,2,6,40,India,Kohima,IN-NL,797001
+MA-972589963,04-02-2017,08-02-2017,Second Class,HH-8722,HIRU  SINGH,Home,MH-MR-631,Office Supplies,Mirrors,Wall & Accent Mirrors,Debit Card,173,90,2,24,India,Adoni,IN-AP,518301
+MA-411650138,25-01-2017,29-01-2017,Standard Class,JJ-5232,JAAN  SINGH,Corporate,MH-OB-15004,Technology,Objects,Decorative Objects,Credit Card,121,84,4,51,India,Kakinada,IN-AP,533001
+MA-536098034,23-01-2017,26-01-2017,Standard Class,CC-2732,CHANDRA  KANT,Home Office,MH-PF-4009,Technology,Otto,Ottomans,Credit Card,334,86,2,67,India,Rampur,IN-UP,244901
+MA-529850243,21-01-2017,25-01-2017,Standard Class,MM-5229,MADHU  SUDAN,Corporate,MH-TB-811,Office Supplies,Desks,Desks,Credit Card,762,48,5,13,India,Silchar,IN-AS,788006
+MA-698171274,20-01-2017,22-01-2017,Standard Class,SS-8437,SYARASI  LAL,Home,MH-MR-604GD,Office Supplies,Mirrors,Wall & Accent Mirrors,Credit Card,344,5,2,16,India,CHENNAI,IN-TN,600062
+MA-769031246,09-01-2017,11-01-2017,Standard Class,NN-8284,NAVAL  SINGH,Home Office,MH-CH-704,Office Supplies,Chairs,Accent Chairs,Credit Card,728,44,6,95,India,Gadag,IN-KA,582103
+MA-333398397,08-01-2017,10-01-2017,Standard Class,RR-2470,RAJENDRA  RATHORE,Home Office,MH-ST-114,Technology,Shelves,Wall Mounted Shelves,Credit Card,291,81,2,27,India,Berhampore,IN-WB,742102
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
